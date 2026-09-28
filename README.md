@@ -6,4 +6,4 @@ Demo, 23 Eylül 2026 sabahındaki yoğun sisli trafiği Danimarka Denizcilik İd
 
 Canlı demo: https://amraxov929.github.io/ibris/
 
-Ulaşan ve Erişen Türkiye 2053 Ar-Ge Fikir Yarışması başvurusu kapsamında hazırlanmıştır. Ali Amrahov, Kastamonu Üniversitesi Bilgisayar Mühendisliği.
+
